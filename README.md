@@ -1,2 +1,3 @@
 # my_first_leetcode
-20181210 Start to finish no less than one protect in leetcode from now on.
+20181210 
+Start to finish more than one project in leetcode everyday from now on.
